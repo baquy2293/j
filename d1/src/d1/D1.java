@@ -16,8 +16,10 @@ public class D1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Frame fr = new Frame();
-                fr.setVisible(true);
+//        Frame fr = new Frame();
+//                fr.setVisible(true);
+
+        System.out.println("ajbasjhdbjaksdbjaskdbjksadb");
     }
     
 }
