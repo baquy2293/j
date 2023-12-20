@@ -1,0 +1,3 @@
+Giangvien{id=1, hoten=1, magv=1, diachi=1, gioitinh=nam, khoa=1}
+Giangvien{id=2, hoten=1, magv=2, diachi=1, gioitinh=nu, khoa=1}
+Giangvien{id=3, hoten=2, magv=3, diachi=2, gioitinh=nam, khoa=2}

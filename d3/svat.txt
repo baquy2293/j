@@ -1,0 +1,3 @@
+masv=1, ht=22/09/2003, gt=nu, ns=Wed Jan 22 00:09:00 ICT 2003, diem=4.0 hocphi=0.0}
+masv=3, ht=3, gt=nam, ns=Thu Jan 22 00:09:00 ICT 2004, diem=3.0 hocphi=0.0}
+masv=3, ht=3, gt=nam, ns=Thu Jan 22 00:09:00 ICT 2004, diem=3.0 hocphi=0.0}

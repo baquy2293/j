@@ -1,0 +1,3 @@
+hoten=1, ngaysinh=01/01/1111, diachi=1, gt=nam, masv=1, email=1, diem=1.0
+hoten=a, ngaysinh=04/03/4444, diachi=c, gt=nam, masv=s, email=s, diem=4.5
+hoten=t, ngaysinh=04/05/3333, diachi=n, gt=nu, masv=3, email=33, diem=3.0

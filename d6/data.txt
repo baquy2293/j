@@ -1,0 +1,1 @@
+Book{author=a, title=a, catrgory=tạp chí, id=0}
